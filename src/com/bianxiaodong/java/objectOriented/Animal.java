@@ -4,6 +4,7 @@ import com.bianxiaodong.java.objectOriented2.*;
 
 public class Animal extends Thing {
 	private String name;
+	public int age = 100;
 	protected static String type = "animal";
 
 	public Animal() {
