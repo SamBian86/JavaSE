@@ -2,7 +2,7 @@ package com.bianxiaodong.java.array;
 
 import java.util.Arrays;
 
-public class Demo {
+public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

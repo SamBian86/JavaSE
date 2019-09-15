@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 
-public class TestCollection {
+public class CollectionTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
